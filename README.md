@@ -7,5 +7,8 @@
 
 ##### 3. Li K, Wang S, Zhang X, et al. Pose Recognition with Cascade Transformers[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.06976)  [[code]](https://github.com/mlpc-ucsd/PRTR)
 
+### 形状估计
+##### 4. Lin K, Wang L, Liu Z. End-to-end human pose and mesh reconstruction with transformers[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2012.09760)  [[code]](https://github.com/microsoft/MeshTransformer)
+
 ### 轻量化
 ##### 1. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
