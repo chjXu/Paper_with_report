@@ -16,7 +16,11 @@
 
 ##### 7. Li J, Xu C, Chen Z, et al. HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.14672)  [[code]](https://github.com/Jeff-sjtu/HybrIK)
 
-##### 8. Chen X, Liu Y, Ma C, et al. Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.02845)  [[code]](https://github.com/SeanChenxy/HandMesh)
+
 
 ### 轻量化
-##### 1. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
+##### 8. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
+
+
+### 手部
+##### 9. Chen X, Liu Y, Ma C, et al. Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.02845)  [[code]](https://github.com/SeanChenxy/HandMesh)
