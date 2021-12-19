@@ -16,6 +16,7 @@
 
 ##### 7. Li J, Xu C, Chen Z, et al. HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.14672)  [[code]](https://github.com/Jeff-sjtu/HybrIK)
 
+##### 8. Li Z, Yu T, Zheng Z, et al. POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.15331)  [[code]](None)
 
 
 ### 轻量化
