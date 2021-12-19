@@ -14,5 +14,7 @@
 
 ##### 6. Cheng Y, Wang B, Yang B, et al. Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.01797)  [[code]](https://github.com/3dpose/3D-Multi-Person-Pose)
 
+##### 7. Li J, Xu C, Chen Z, et al. HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.14672)  [[code]](https://github.com/Jeff-sjtu/HybrIK)
+
 ### 轻量化
 ##### 1. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
