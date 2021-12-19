@@ -34,7 +34,9 @@
 
 ##### 13. Guzov V, Mir A, Sattler T, et al. Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.17265)  [[code]](https://github.com/aymenmir1/hps)
 
+##### 14. Wandt B, Rudolph M, Zell P, et al. CanonPose: Self-supervised monocular 3D human pose estimation in the wild[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.14679)  [[code]](https://github.com/bastianwandt/CanonPose)
 
+##### 15. Yu F, Salzmann M, Fua P, et al. PCLs: Geometry-aware neural reconstruction of 3D pose with perspective crop layers[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.13607)  [[code]](https://github.com/yu-frank/PerspectiveCropLayers)
 
 
 ### 轻量化
