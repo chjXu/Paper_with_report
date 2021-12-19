@@ -18,6 +18,24 @@
 
 ##### 5. Li Z, Yu T, Zheng Z, et al. POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.15331)  [[code]](None)
 
+##### 6. Choi H, Moon G, Chang J Y, et al. Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2011.08627)  [[code]](https://github.com/hongsukchoi/TCMR_RELEASE)
+
+##### 7. Zhou Y, Habermann M, Habibie I, et al. Monocular Real-time Full Body Capture with Inter-part Correlations[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2012.06087)  [[code]](None)
+
+##### 8. Schmidtke L, Vlontzos A, Ellershaw S, et al. Unsupervised Human Pose Estimation through Transforming Shape Templates[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.04154)  [[code]](https://github.com/lschmidtke/shape_templates)
+
+##### 9. Lin J, Lee G H. Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.02273)  [[code]](https://github.com/jiahaoLjh/PlaneSweepPose)
+
+##### 10. Geng Z, Sun K, Xiao B, et al. Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.02300)  [[code]](https://github.com/HRNet/DEKR)
+
+##### 11. Fang Q, Shuai Q, Dong J, et al. Reconstructing 3D Human Pose by Watching Humans in the Mirror[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.00340)  [[code]](https://github.com/zju3dv/EasyMocap)
+
+##### 12. Yuan Y, Wei S E, Simon T, et al. SimPoE: Simulated Character Control for 3D Human Pose Estimation[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.00683)  [[code]](None)
+
+##### 13. Guzov V, Mir A, Sattler T, et al. Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2103.17265)  [[code]](https://github.com/aymenmir1/hps)
+
+
+
 
 ### 轻量化
 ##### 6. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
