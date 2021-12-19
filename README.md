@@ -12,5 +12,7 @@
 
 ##### 5. Gong K, Zhang J, Feng J. PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.02465)  [[code]](https://github.com/jfzhang95/PoseAug)
 
+##### 6. Cheng Y, Wang B, Yang B, et al. Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.01797)  [[code]](https://github.com/3dpose/3D-Multi-Person-Pose)
+
 ### 轻量化
 ##### 1. Xu L, Guan Y, Jin S, et al. ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2105.10154)  [[code]](https://github.com/luminxu/ViPNAS)
